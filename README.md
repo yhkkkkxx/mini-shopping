@@ -17,7 +17,7 @@ course link 🔗[click here](https://academy.dream-coding.com/courses/mini-shopp
 ```
 ---
 
-### 1️⃣ HTML: list logo, buttons, and item(s)
+### 1️⃣ HTML: logo, buttons, and item(s) list
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/90179774/156214097-c3d959a0-084f-4b19-bd07-3be2294370cd.PNG"/>
 
 
