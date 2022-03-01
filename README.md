@@ -3,6 +3,7 @@ mini-shopping game course from dream coding 📃
 course link 🔗[click here](https://academy.dream-coding.com/courses/mini-shopping) 
 
 + *with HTML, CSS, Vanila JS, JSON*   
++ *completed this project on March 1st, 2022*
 + *my first README*   
 + *written in English for **ganzi***
 
