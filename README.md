@@ -18,7 +18,7 @@ course link 🔗[click here](https://academy.dream-coding.com/courses/mini-shopp
 ```
 ---
 
-### 1️⃣ HTML: logo, buttons, and item(s) list
+### 1️⃣ HTML: logo, buttons, and item(s)
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/90179774/156214097-c3d959a0-084f-4b19-bd07-3be2294370cd.PNG"/>
 
 
@@ -31,4 +31,4 @@ course link 🔗[click here](https://academy.dream-coding.com/courses/mini-shopp
 
 ---
 
-**I used all images and ideas [dream-ellie](https://github.com/dream-ellie) provided**
+ℹ **I used all images and ideas [dream-ellie](https://github.com/dream-ellie) provided**
